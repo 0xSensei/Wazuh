@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-09) = �:  알 수 없는 사용자 이름 또는 잘�13d559f3d9860bbf4791cfbd630b3d04
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-09) = xC000006D   하위 상태:  0xC0000064    프로세스 정보:   호출자 프�aa1528b584eaf90d9634be2b0bbb09b8bd86df5f
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-08.json.sum) = 13d559f3d9860bbf4791cfbd630b3d04
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-08.json.sum) = aa1528b584eaf90d9634be2b0bbb09b8bd86df5f
+

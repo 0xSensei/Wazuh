@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/firewall/2018/Sep/ossec-firewall-24) = none
+SHA1 (/logs/firewall/2018/Sep/ossec-firewall-24) = none
+
+Chained checksum:
+MD5  (/logs/firewall/2018/Sep/ossec-firewall-23.log.sum) = 1ec3d0d7a6a1f60e1df1625a1446f16a
+SHA1 (/logs/firewall/2018/Sep/ossec-firewall-23.log.sum) = 34775c3c23624c384e66367f02736dce02962386
+

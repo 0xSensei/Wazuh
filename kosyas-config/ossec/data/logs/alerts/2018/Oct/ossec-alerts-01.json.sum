@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-01) = Information:   Logon Process:  NtLmSsp    Authen03670f8f7466ee8888294328ec62b71f
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-01) =  Package Name (NTLM only): -   Key Length:  0    This event is generated when a 5b8d8905dbd893b94f20787a43ebc5408d83ff9b
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-30.json.sum) = 03670f8f7466ee8888294328ec62b71f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-30.json.sum) = 5b8d8905dbd893b94f20787a43ebc5408d83ff9b
+

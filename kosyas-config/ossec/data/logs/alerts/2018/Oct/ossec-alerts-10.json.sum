@@ -1,0 +1,12 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-10) = rvices.exe.    The Logon Type field indicates th928d210a8d0996bcea06f1c378da0cdb
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-10) = 
+type: Security
+security_id: S-1-0-0
+account_name: FJAMES
+account_domain: Failur0796e8501a1a7ded1901f6c668491b77d6cf4738
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-09.json.sum) = 928d210a8d0996bcea06f1c378da0cdb
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-09.json.sum) = 0796e8501a1a7ded1901f6c668491b77d6cf4738
+

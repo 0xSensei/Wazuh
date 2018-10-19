@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-17) = Source Network Address: 12.245.27.142   Source P3cbbddf33793232ad7c2c2657fa9fb01
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-17) =   Logon Process:  NtLmSsp    Authentication Package: NTLM   Transited Services: c4a2e7dbd93cb38ed0dae8a299abd32a85c72722
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-16.json.sum) = 3cbbddf33793232ad7c2c2657fa9fb01
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-16.json.sum) = c4a2e7dbd93cb38ed0dae8a299abd32a85c72722
+

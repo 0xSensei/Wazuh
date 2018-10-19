@@ -1,0 +1,6 @@
+Linux |Ubuntu1804-01 |4.15.0-1021-azure |#21-Ubuntu SMP Fri Aug 10 10:02:38 UTC 2018 |x86_64 [Ubuntu|ubuntu: 18.04.1 LTS (Bionic Beaver)] - Wazuh v3.2.1 / ab73af41699f13fdd81903b5f23d8d00
+cf6f4010dacd0190d689940a018beff8 merged.mg
+
+
+#"manager_hostname":wazuh-manager
+#"node_name":node01

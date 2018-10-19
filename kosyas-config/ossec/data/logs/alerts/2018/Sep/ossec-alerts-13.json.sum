@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-13) = ice, or a local process such as Winlogon.exe or c8f553856b4ccd633a4785c86cb20f96
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-13) = the kind of logon that was requested. The most commo
+
+Port:  0    Detailed Authe5eb73048aa857194a9c991c164f5df6166c9db6a
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-12.json.sum) = c8f553856b4ccd633a4785c86cb20f96
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-12.json.sum) = 5eb73048aa857194a9c991c164f5df6166c9db6a
+

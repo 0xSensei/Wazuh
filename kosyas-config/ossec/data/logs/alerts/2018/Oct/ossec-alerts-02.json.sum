@@ -1,0 +1,9 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-02) = ser= rhost=116.31.116.33  user=root
+Oct  2 23:59bab87e0f2cebbfaa324451a0fa765157
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-02) = tication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.33  useba7bf4180539204618f30a5fff98a45118e289fb
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-01.json.sum) = bab87e0f2cebbfaa324451a0fa765157
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-01.json.sum) = ba7bf4180539204618f30a5fff98a45118e289fb
+

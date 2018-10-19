@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-29) = ecurity ID:  S-1-0-0   Account Name:  -   Accoun780504472d504b09d99b4432c49ddf75
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-29) =     Account For Which Logon Failed:   Security ID:  S-1-0-0   Account Name:  WEB02e139a41915eb731b0c23b3b8ef3df976a4132d
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-28.json.sum) = 780504472d504b09d99b4432c49ddf75
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-28.json.sum) = 02e139a41915eb731b0c23b3b8ef3df976a4132d
+

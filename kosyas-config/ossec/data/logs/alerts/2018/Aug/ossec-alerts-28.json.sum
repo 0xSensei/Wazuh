@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-28) = 름 또는 잘못된 암호를 사용했습니�0eee00d8b1c23dcc1bc4d931e2296dae
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-28) = 00006A    프로세스 정보:   호출자 프로세스 ID: 0x0   호출자 프�e514857777e248c9cadfbe56c2e0e10d6f07be48
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-27.json.sum) = 0eee00d8b1c23dcc1bc4d931e2296dae
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-27.json.sum) = e514857777e248c9cadfbe56c2e0e10d6f07be48
+

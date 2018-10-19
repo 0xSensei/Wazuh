@@ -1,0 +1,32 @@
+!1539916976!1535105983 Starting syscheck scan.
+!1539917480!1535106463 Ending syscheck scan.
+!1539917780!1535106483 Starting rootcheck scan.
+!1539917783!1535106486 System Audit: SSH Hardening - 3: Root can log in. File: /etc/ssh/sshd_config. Reference: 3 .
+!1539917783!1535106486 System Audit: SSH Hardening - 4: No Public Key authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 4 .
+!1539917783!1535106486 System Audit: SSH Hardening - 5: Password Authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 5 .
+!1539917783!1535106486 System Audit: SSH Hardening - 6: Empty passwords allowed {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 6 .
+!1539917783!1535106486 System Audit: SSH Hardening - 7: Rhost or shost used for authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 7 .
+!1539917783!1535106486 System Audit: SSH Hardening - 8: Wrong Grace Time {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 8 .
+!1539917783!1535106486 System Audit: SSH Hardening - 9: Wrong Maximum number of authentication attempts {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 9 .
+!1539917783!1535106486 System Audit: CIS - Testing against the CIS Debian Linux Benchmark v1.0. File: /etc/debian_version. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Debian_Benchmark_v1.0.pdf .
+!1539917783!1535106486 System Audit: CIS - Debian Linux - 1.4 - Robust partition scheme - /tmp is not on its own partition {CIS: 1.4 Debian Linux}. File: /etc/fstab. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Debian_Benchmark_v1.0.pdf .
+!1539917783!1535106486 System Audit: CIS - Debian Linux - 1.4 - Robust partition scheme - /opt is not on its own partition {CIS: 1.4 Debian Linux}. File: /opt. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Debian_Benchmark_v1.0.pdf .
+!1539917783!1535106486 System Audit: CIS - Debian Linux - 1.4 - Robust partition scheme - /var is not on its own partition {CIS: 1.4 Debian Linux}. File: /etc/fstab. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Debian_Benchmark_v1.0.pdf .
+!1539917783!1535106486 System Audit: CIS - Debian Linux - 5.2 - Network parameters - IP Forwarding enabled {CIS: 5.2 Debian Linux}. File: /proc/sys/net/ipv4/ip_forward. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Debian_Benchmark_v1.0.pdf .
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fpdf.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/helveticabi.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/helveticai.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/courier.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/courieri.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/timesb.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/zapfdingbats.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/courierbi.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/timesbi.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/courierb.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/helveticab.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/symbol.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/times.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/timesi.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/lib/php/fonts/helvetica.php' is owned by root and has written permissions to anyone.
+!1539917783!1535106486 File '/var/lib/docker/overlay2/2dd8a9bc60b080cc9e1ca9fb4c9712e5e38f0914ee9eabed3ffe02c12cfe5dda/diff/opt/lampp/licenses/expat.txt' is owned by root and has written permissions to anyone.
+!1539917813!1535106514 Ending rootcheck scan.

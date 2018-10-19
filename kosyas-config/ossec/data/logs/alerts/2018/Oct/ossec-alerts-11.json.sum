@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-11) = e or bad password.   Status:   0xC000006D   Sub e70a3e496e0ae34220f4165ba4402412
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-11) = ller Process ID: 0x0   Caller Process Name: -    Network Information:   Workstat62656df13c47999831e538f32b4f5076958caba4
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-10.json.sum) = e70a3e496e0ae34220f4165ba4402412
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-10.json.sum) = 62656df13c47999831e538f32b4f5076958caba4
+

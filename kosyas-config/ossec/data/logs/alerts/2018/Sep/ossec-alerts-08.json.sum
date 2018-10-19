@@ -1,0 +1,9 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-08) = ) -> 'sshd: authentication failed.'
+Src IP: 58.242ce9886baff7ed6bb902df7d088c918
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-08) = :58 CentOS7 sshd[1932]: Failed password for root from 58.218.92.26 port 14108 ss738d2d19a6549489a6d136f3fc864913200fb6a0
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-07.json.sum) = 42ce9886baff7ed6bb902df7d088c918
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-07.json.sum) = 738d2d19a6549489a6d136f3fc864913200fb6a0
+

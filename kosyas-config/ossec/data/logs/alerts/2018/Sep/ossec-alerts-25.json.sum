@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-25) = heck failed for user (root)
+Sep 25 23:59:45 Centaf6028abe18d394cb83ab52f7bab1233
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-25) = r user (root)
+Sep 25 23:59:43 CentOS7 unix_chkpwd[85301]: password check failed ae674c398438414b398b002f9d090cd5aebe7d74
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-24.json.sum) = af6028abe18d394cb83ab52f7bab1233
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-24.json.sum) = ae674c398438414b398b002f9d090cd5aebe7d74
+

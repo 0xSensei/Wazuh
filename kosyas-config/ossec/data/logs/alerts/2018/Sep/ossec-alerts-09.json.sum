@@ -1,0 +1,12 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-09) = 
+Sep  9 23:59:47 Ubuntu1804-01 sudo: pam_unix(su165ad88fc10dce905dcbbf755c4c55c8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-09) = d=0)
+uid: 0
+
+** Alert 1536537588.350804861: - pam,syslog,pci_dss_10.2.5,gpg13_7.de012db115aeba108159723c2ebf15853e79b57e
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-08.json.sum) = 165ad88fc10dce905dcbbf755c4c55c8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-08.json.sum) = de012db115aeba108159723c2ebf15853e79b57e
+

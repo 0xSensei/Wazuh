@@ -1,0 +1,23 @@
+!1539907085!1535105392 Starting syscheck scan.
+!1539907897!1535106131 Ending syscheck scan.
+!1539908197!1535106151 Starting rootcheck scan.
+!1539908203!1535106157 System Audit: SSH Hardening - 3: Root can log in. File: /etc/ssh/sshd_config. Reference: 3 .
+!1539908203!1535106157 System Audit: SSH Hardening - 4: No Public Key authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 4 .
+!1539908203!1535106157 System Audit: SSH Hardening - 5: Password Authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 5 .
+!1539908203!1535106157 System Audit: SSH Hardening - 6: Empty passwords allowed {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 6 .
+!1539908203!1535106157 System Audit: SSH Hardening - 7: Rhost or shost used for authentication {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 7 .
+!1539908203!1535106157 System Audit: SSH Hardening - 8: Wrong Grace Time {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 8 .
+!1539908203!1535106157 System Audit: SSH Hardening - 9: Wrong Maximum number of authentication attempts {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: 9 .
+!1539908203!1535106157 System Audit: CIS - Testing against the CIS Red Hat Enterprise Linux 7 Benchmark v1.1.0. File: /etc/redhat-release. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - Build considerations - Robust partition scheme - /tmp is not on its own partition. File: /etc/fstab. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - Build considerations - Robust partition scheme - /var is not on its own partition {CIS: 1.1.5 RHEL7}. File: /etc/fstab. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - 4.1.2 - Network parameters - IP send redirects enabled {CIS: 4.1.2 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/conf/all/send_redirects. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1535678506!1535106157 System Audit: CIS - RHEL7 - 4.2.2 - Network parameters - ICMP redirects accepted {CIS: 1.1.1 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/conf/all/accept_redirects. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - 4.2.3 - Network parameters - ICMP secure redirects accepted {CIS: 4.2.3 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/conf/all/secure_redirects. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - 4.2.4 - Network parameters - martians not logged {CIS: 4.2.4 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/conf/all/log_martians. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit:  CIS - RHEL7 - 6.2.5 - SSH Configuration - Set SSH MaxAuthTries to 4 or Less  {CIS - RHEL7 - 6.2.5} {PCI_DSS: 2.2.4}. File: /etc/ssh/sshd_config. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - 6.2.8 - SSH Configuration - Root login allowed {CIS: 6.2.8 RHEL7} {PCI_DSS: 4.1}. File: /etc/ssh/sshd_config. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535106157 System Audit: CIS - RHEL7 - 6.2.9 - SSH Configuration - Empty passwords permitted {CIS: 6.2.9 RHEL7} {PCI_DSS: 4.1}. File: /etc/ssh/sshd_config. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908246!1535106192 Ending rootcheck scan.
+!1539908203!1535722560 System Audit: CIS - RHEL7 - 4.1.1 - Network parameters - IP Forwarding enabled {CIS: 4.1.1 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/ip_forward. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .
+!1539908203!1535722560 System Audit: CIS - RHEL7 - 4.2.2 - Network parameters - ICMP redirects accepted {CIS: 1.1.1 RHEL7} {PCI_DSS: 2.2.4}. File: /proc/sys/net/ipv4/conf/default/accept_redirects. Reference: https://benchmarks.cisecurity.org/tools2/linux/CIS_Red_Hat_Enterprise_Linux_7_Benchmark_v1.1.0.pdf .

@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-27) = failed for user (root)
+Sep 27 23:59:51 Ubuntu180cceba38acb85c6b0fe41e313d88e10f0
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-27) = ures; logname= uid=0 euid=0 tty=ssh ruser= rhost=58.218.92.43  user=root
+Sep 27 915439e84995a61b04617845c10d7eb9ac1fae30
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-26.json.sum) = cceba38acb85c6b0fe41e313d88e10f0
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-26.json.sum) = 915439e84995a61b04617845c10d7eb9ac1fae30
+

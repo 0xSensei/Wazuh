@@ -1,0 +1,12 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-16) = ,pci_dss_10.2.5,gpg13_7.8,gpg13_7.9,
+2018 Oct 16e03105b449a1630fc6b423a294d412a9
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-16) = log
+Rule: 5502 (level 3) -> 'PAM: Login session closed.'
+User: root
+Oct 16 23:596cb3b5cb68642754c358c27af820a3a4587eb3ca
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-15.json.sum) = e03105b449a1630fc6b423a294d412a9
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-15.json.sum) = 6cb3b5cb68642754c358c27af820a3a4587eb3ca
+

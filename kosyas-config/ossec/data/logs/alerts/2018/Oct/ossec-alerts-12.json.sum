@@ -1,0 +1,11 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-12) = 2.47 port 39142 ssh2
+
+** Alert 1539388799.231291c4451ed9e0fa15923980a22ece9896b4
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-12) = 10.2.4,pci_dss_10.2.5,gpg13_7.8,
+2018 Oct 12 23:59:59 (kaci05) 40.82.155.179->/v4e7d7ab336967c5f0ed186c5d5f3625c4a82798a
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-11.json.sum) = c4451ed9e0fa15923980a22ece9896b4
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-11.json.sum) = 4e7d7ab336967c5f0ed186c5d5f3625c4a82798a
+

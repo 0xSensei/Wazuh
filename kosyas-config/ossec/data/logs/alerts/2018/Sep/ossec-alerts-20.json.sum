@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-20) = ure
+Rule: 5716 (level 5) -> 'sshd: authenticatioadd6e809245995ff8b32f2797bd64dc3
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-20) = User: root
+Sep 20 23:59:57 CentOS7 sshd[38456]: Failed password for root from 588390e0ce03a5a475253549d2282f9b6d0b79de93
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-19.json.sum) = add6e809245995ff8b32f2797bd64dc3
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-19.json.sum) = 8390e0ce03a5a475253549d2282f9b6d0b79de93
+

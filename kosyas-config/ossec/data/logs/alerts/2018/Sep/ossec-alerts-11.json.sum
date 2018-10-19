@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-11) = 23:59:42 CentOS7 unix_chkpwd[48618]: password ch2a5247d1eb87978224ab6f5b10acce00
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-11) = 227771228: - syslog,sshd,authentication_failed,pci_dss_10.2.4,pci_dss_10.2.5,gpg0a73d14d5d9d7b4bbaa52a6d1086ee1c4229fac3
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-10.json.sum) = 2a5247d1eb87978224ab6f5b10acce00
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-10.json.sum) = 0a73d14d5d9d7b4bbaa52a6d1086ee1c4229fac3
+

@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-18) = rhost=116.31.116.33  user=root
+Oct 18 23:59:52 C82f6587612cd06ac6aaad4712248c534
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-18) = ilures; logname= uid=0 euid=0 tty=ssh ruser= rhost=116.31.116.33  user=root
+Oct de5953fd191ed1e77afa731da5c0acaee2ff678a
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-17.json.sum) = 82f6587612cd06ac6aaad4712248c534
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-17.json.sum) = de5953fd191ed1e77afa731da5c0acaee2ff678a
+

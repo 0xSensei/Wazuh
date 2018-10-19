@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-30) = fields indicate the account on the local system da3bcc6d2ec5f9bb8f312ab4c7f648dc
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-30) =  a service such as the Server service, or a local process such as Winlogon.exe oa1d340ee3c05e1bebf91d17085633eb2d071d43a
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-29.json.sum) = da3bcc6d2ec5f9bb8f312ab4c7f648dc
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-29.json.sum) = a1d340ee3c05e1bebf91d17085633eb2d071d43a
+

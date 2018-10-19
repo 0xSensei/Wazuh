@@ -1,0 +1,11 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-02) = 82 ssh2
+
+** Alert 1535932799.185998105: - sysloga335790b29538569f3ccfc65eff64fc8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-02) = ss_10.2.5,gpg13_7.1,
+2018 Sep 02 23:59:59 (kaci05) 40.82.155.179->/var/log/auth.15c95153f78cd996052df7188c3e888710aa964b
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-01.json.sum) = a335790b29538569f3ccfc65eff64fc8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-01.json.sum) = 15c95153f78cd996052df7188c3e888710aa964b
+

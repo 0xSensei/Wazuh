@@ -1,0 +1,5 @@
+!1539921804!1535101520 Starting syscheck scan.
+!1539878305!1535101536 Ending syscheck scan.
+!1539878609!1535103720 Starting rootcheck scan.
+!1539878609!1535103720 Windows Audit: Null sessions allowed {PCI_DSS: 11.4}.
+!1539878614!1535103725 Ending rootcheck scan.

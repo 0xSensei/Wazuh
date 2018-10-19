@@ -1,0 +1,12 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-22) = ion event (rootcheck).'
+Files hidden inside diref82994df1edf49a3c0e6c2bc602cc87d
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-22) =  number of files (3,1).
+title: Files hidden inside directory '/usr/lib/dpkg'.
+
+*e2f3a407d7bc935159bdcd00465b1974e7617adf
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-21.json.sum) = f82994df1edf49a3c0e6c2bc602cc87d
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-21.json.sum) = e2f3a407d7bc935159bdcd00465b1974e7617adf
+

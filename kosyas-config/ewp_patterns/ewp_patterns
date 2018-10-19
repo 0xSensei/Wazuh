@@ -1,0 +1,9 @@
+##################################################################################
+# SecludIT
+# Description: Some additional patterns for EWP logs
+#
+# Authors: Frederic Donnat <fred@secludit.com>
+#
+# Copyright: Copyright (C) 2016 SecludIT
+##################################################################################
+TAG_DATA [^\|]*

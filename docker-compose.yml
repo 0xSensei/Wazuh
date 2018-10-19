@@ -3,7 +3,7 @@ version: '2'
 
 services:
   wazuh:
-    image: wazuh/wazuh
+    image: kng20170406/wazuh
     hostname: wazuh-manager
     restart: always
     ports:
@@ -14,6 +14,11 @@ services:
 #      - "1516:1516"
     networks:
         - docker_elk
+    volumes:
+        - /home/kosyas/kosyas-config/ossec/data:/var/ossec/data
+     # - /home/kosyas/kosyas-config/ossec/data:/var/ossec/data:Z
+     # - /home/kosyas/kosyas-config/ossec-data:/var/ossec/data:Z
+
 #    volumes:
 #      - my-path:/var/ossec/data:Z
 #      - my-path:/etc/postfix:Z
@@ -22,10 +27,15 @@ services:
     depends_on:
       - elasticsearch
   logstash:
-    image: wazuh/wazuh-logstash
+    image: kng20170406/wazuh-logstash
     hostname: logstash
     restart: always
+    command: bin/logstash-plugin install logstash-input-http_poller
     command: -f /etc/logstash/conf.d/
+    volumes:
+      - /home/kosyas/kosyas-config/logstash:/etc/logstash/conf.d
+      - /home/kosyas/kosyas-config/ewp_patterns:/usr/share/logstash/data/queue
+
 #    volumes:
 #      - my-path:/etc/logstash/conf.d:Z
     links:
@@ -33,6 +43,13 @@ services:
      - elasticsearch:elasticsearch
     ports:
       - "5000:5000"
+      - "5045:5045"
+      - "5046:5046"
+      - "6514:6514/udp"
+      - "7514:7514/udp"
+      - "7516:7516/udp"
+
+#      - "1534:1534"
     networks:
         - docker_elk
     depends_on:
@@ -63,16 +80,20 @@ services:
         soft: -1
         hard: -1
     mem_limit: 2g
+    volumes:
+      - /home/kosyas/kosyas-config/config:/usr/share/elasticsearch/config:Z
+      - /data/esdata:/usr/share/elasticsearch/data:Z
+# - /home/kng/esdatadir:/usr/share/elasticsearch/data:Z
 #    volumes:
 #      - my-path:/usr/share/elasticsearch/data:Z
     networks:
         - docker_elk
   kibana:
-    image: wazuh/wazuh-kibana
+    image: kng20170406/wazuh-kibana
     hostname: kibana
     restart: always
-#    ports:
-#      - "5601:5601"
+    ports:
+      - "5601:5601"
     environment:
       - "NODE_OPTIONS=--max-old-space-size=3072"
     networks:
@@ -84,7 +105,7 @@ services:
       - wazuh
     entrypoint: /wait-for-it.sh elasticsearch
   nginx:
-    image: wazuh/wazuh-nginx
+    image: kng20170406/wazuh-nginx
     hostname: nginx
     restart: always
     entrypoint: /run.sh

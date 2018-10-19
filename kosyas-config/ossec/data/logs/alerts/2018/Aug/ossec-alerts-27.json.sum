@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-27) = D:  S-1-0-0   Account Name:  WINDOWSNT   Account5e43a2d6402684666c57f97235b53898
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-27) = son:  Unknown user name or bad password.   Status:   0xC000006D   Sub Status:  0f763d5c262373cfeef930dc10c9cd503089a5044
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-26.json.sum) = 5e43a2d6402684666c57f97235b53898
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-26.json.sum) = f763d5c262373cfeef930dc10c9cd503089a5044
+

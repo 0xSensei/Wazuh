@@ -1,0 +1,30 @@
+ossec      kaci01->58.229.253.173  (kaci01) 58.229.253.173->ossec
+sudo   omsagent     (kaci01) 58.229.253.173->/var/log/auth.log
+sudo   nxautomation     (kaci01) 58.229.253.173->/var/log/auth.log
+ossec      kaci02Window->110.10.147.54  (kaci02Window) 110.10.147.54->ossec
+ossec      kaci03Window->40.82.155.176  (kaci03Window) 40.82.155.176->ossec
+windows  (no user)     Win2016 (kaci03Window) 40.82.155.176->WinEvtLog
+windows  (no user)     GNE0261V73MJ715 (kaci02Window) 110.10.147.54->WinEvtLog
+ossec      kaci02->110.10.147.39  (kaci02) 110.10.147.39->ossec
+ossec      kaci03->40.82.155.177  (kaci03) 40.82.155.177->ossec
+sudo   omsagent     (kaci03) 40.82.155.177->/var/log/auth.log
+sudo   nxautomation     (kaci03) 40.82.155.177->/var/log/auth.log
+sudo   omsagent     (kaci02) 110.10.147.39->/var/log/secure
+ossec      kaci04->40.82.155.178  (kaci04) 40.82.155.178->ossec
+sudo   omsagent     (kaci04) 40.82.155.178->/var/log/secure
+ossec      kaci05->40.82.155.179  (kaci05) 40.82.155.179->ossec
+sudo   omsagent     (kaci05) 40.82.155.179->/var/log/auth.log
+sudo   nxautomation     (kaci05) 40.82.155.179->/var/log/auth.log
+sudo   root     (kaci01) 58.229.253.173->/var/log/auth.log
+sudo   kosyas     (kaci01) 58.229.253.173->/var/log/auth.log
+sudo   root     (kaci02) 110.10.147.39->/var/log/secure
+sudo   eureka18     (kaci03) 40.82.155.177->/var/log/auth.log
+sudo   eureka18     (kaci04) 40.82.155.178->/var/log/secure
+sudo   eureka18     (kaci05) 40.82.155.179->/var/log/auth.log
+sudo   root     (kaci05) 40.82.155.179->/var/log/auth.log
+sudo   root     (kaci03) 40.82.155.177->/var/log/auth.log
+sudo   root     (kaci04) 40.82.155.178->/var/log/secure
+su   root     (kaci05) 40.82.155.179->/var/log/auth.log
+su   root     (kaci03) 40.82.155.177->/var/log/auth.log
+sudo        (kaci04) 40.82.155.178->/var/log/secure
+sudo   nxautomation     (kaci04) 40.82.155.178->/var/log/secure

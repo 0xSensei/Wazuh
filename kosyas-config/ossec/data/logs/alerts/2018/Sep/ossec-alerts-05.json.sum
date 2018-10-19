@@ -1,0 +1,9 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-05) = _type: 3
+2018 Sep 06 08:59:54 WinEvtLog: Securitfbb7427385cc897f9662849906c8e9ba
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-05) = ty-Auditing: (no user): no domain: GNE0261V73MJ715: 계정을 로그온하지 �5e78670f13d3561f6fe3b8e47299685554298689
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-04.json.sum) = fbb7427385cc897f9662849906c8e9ba
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-04.json.sum) = 5e78670f13d3561f6fe3b8e47299685554298689
+

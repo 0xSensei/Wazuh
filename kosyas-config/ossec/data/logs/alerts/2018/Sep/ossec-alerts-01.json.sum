@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-01) = :  S-1-0-0   계정 이름:  ADMINISTRATOR   계74876e7487ad29dc9f1eaa740718a12f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-01) = ��:  알 수 없는 사용자 이름 또는 잘못된 암호를 사용했습니�988603229ee85bdd7942978d11ad70f93be571dc
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-31.json.sum) = 74876e7487ad29dc9f1eaa740718a12f
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-31.json.sum) = 988603229ee85bdd7942978d11ad70f93be571dc
+

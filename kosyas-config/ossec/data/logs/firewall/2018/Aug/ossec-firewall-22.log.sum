@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/firewall/2018/Aug/ossec-firewall-22) = hidden inside directory '/usr/local/share'. Link878fc6d36f47197d4c99b847b5a4d7fc
+SHA1 (/logs/firewall/2018/Aug/ossec-firewall-22) = ecoder":{"name":"rootcheck"},"data":{"title":"Files hidden inside directory '/us1e7f9a689c1f89805f973f64986cb589fcfad534
+
+Chained checksum:
+MD5  (/logs/firewall/2018/Aug/ossec-firewall-21.log.sum) = 878fc6d36f47197d4c99b847b5a4d7fc
+SHA1 (/logs/firewall/2018/Aug/ossec-firewall-21.log.sum) = 1e7f9a689c1f89805f973f64986cb589fcfad534
+

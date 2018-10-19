@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-06) = ess such as Winlogon.exe or Services.exe.    Theffffd7cc5ff8e2f81a70495a18f05e23
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-06) = at was requested. The m
+
+** Alert 1536278392.234990473: - syslog,sshd,invalid_lo781fc30851032a28fe7be22392b8b99e9226546e
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-05.json.sum) = ffffd7cc5ff8e2f81a70495a18f05e23
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-05.json.sum) = 781fc30851032a28fe7be22392b8b99e9226546e
+

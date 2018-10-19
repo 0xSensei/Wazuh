@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-03) = Ssp    인증 패키지: NTLM   전송된 서비d2461808e4e4af81fa782a4476eeb8c8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-03) = 길이:  0    이 이벤트는 로그온 요청이 실패할 때 액세스하려c9930b626c05f5a5bc95a2c41e5f6d343dc23f78
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-02.json.sum) = d2461808e4e4af81fa782a4476eeb8c8
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-02.json.sum) = c9930b626c05f5a5bc95a2c41e5f6d343dc23f78
+

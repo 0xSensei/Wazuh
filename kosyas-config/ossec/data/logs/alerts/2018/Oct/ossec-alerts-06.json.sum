@@ -1,0 +1,9 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-06) = eader.rb -p /var/opt/microsoft/docker-cimprov/st4d0f43001ef2abc026ebdc60fd52e283
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-06) = 
+command: /opt/microsoft/omsagent/ruby/bin/ruby /opt/microsoft/omsagent/plugin/c7618e1911c56dc42f3934319f351e3edbc1b0429
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-05.json.sum) = 4d0f43001ef2abc026ebdc60fd52e283
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-05.json.sum) = 7618e1911c56dc42f3934319f351e3edbc1b0429
+

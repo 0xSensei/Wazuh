@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-18) = ): -   Key Length:  0    This event is generated5961aa21700b96fe5cabce2d4629f82d
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-18) = the computer where access was attempted.    The Subject fields indicate the acco8fefa93b87a6fd504e7c657bbcce87e74cc06b18
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-17.json.sum) = 5961aa21700b96fe5cabce2d4629f82d
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-17.json.sum) = 8fefa93b87a6fd504e7c657bbcce87e74cc06b18
+

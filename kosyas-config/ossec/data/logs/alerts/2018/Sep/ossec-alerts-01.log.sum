@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-01) = 
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-01) = 
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-31.log.sum) = a15c081165cdafbc2968be1c8611f08a
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-31.log.sum) = 5afca0d6f12206fe9d64e67fe8392ccdbe5f57b4
+

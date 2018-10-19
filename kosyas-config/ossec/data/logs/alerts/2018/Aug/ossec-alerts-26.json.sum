@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-26) =  Authentication Package: NTLM   Transited Servicb9b46f56dca2dc6a09e738ac3433b04a
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-26) = :  0    This event is generated when a logon request fails. It is generated on t500f3d40cf7bccecce3a5762fb9e26be40a56cfb
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-25.json.sum) = b9b46f56dca2dc6a09e738ac3433b04a
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-25.json.sum) = 500f3d40cf7bccecce3a5762fb9e26be40a56cfb
+

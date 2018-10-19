@@ -1,0 +1,5 @@
+** Alert 1524512310.0: mail  - ossec,pci_dss_10.6.1,gpg13_10.1,
+2018 Apr 23 19:38:30 27ae0e316043->ossec-monitord
+Rule: 502 (level 3) -> 'Ossec server started.'
+ossec: Ossec started.
+

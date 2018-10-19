@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-03) =    오류 정보:   오류 이유:  알 수 없�7ae00d81dbfe32fbbeab13a0e4010b05
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-03) = ��용했습니다.   상태:   0xC000006D   하위 상태:  0xC000006A    프로5b1e57919028cc5767eaa0f1ecd299563d9961a9
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-02.json.sum) = 7ae00d81dbfe32fbbeab13a0e4010b05
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-02.json.sum) = 5b1e57919028cc5767eaa0f1ecd299563d9961a9
+

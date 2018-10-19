@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-29) = ): -   키 길이:  0    이 이벤트는 로그8d97c755b92a3c639323e2be4f126743
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-29) = ��던 컴퓨터에 생성됩니다.    주체 필드는 로그온을 요청한 �981aed8be8d23aea3f3f4384419f967c625aa8d6
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-28.json.sum) = 8d97c755b92a3c639323e2be4f126743
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-28.json.sum) = 981aed8be8d23aea3f3f4384419f967c625aa8d6
+

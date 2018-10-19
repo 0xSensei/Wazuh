@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-22) =   Caller Process Name: -    Network Information:9d4cc1eb8655d9600ac1dcb5b578586b
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-22) =  91.82.84.16   Source Port:  0    Detailed Authentication Information:   Logon P91793578982484a6999ae2929daac16d646a2940
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-21.json.sum) = 9d4cc1eb8655d9600ac1dcb5b578586b
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-21.json.sum) = 91793578982484a6999ae2929daac16d646a2940
+

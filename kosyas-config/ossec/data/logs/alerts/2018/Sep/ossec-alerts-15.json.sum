@@ -1,0 +1,9 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-15) = S7 sshd[33737]: PAM 2 more authentication failur533a22241584515709906f635f9f0379
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-15) = 16.31.116.33  user=root
+Sep 15 23:58:48 Ubuntu1804-01 sshd[17399]: PAM 2 more aud79a95fdba958a55796db6970248d2c8ebd15e84
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-14.json.sum) = 533a22241584515709906f635f9f0379
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-14.json.sum) = d79a95fdba958a55796db6970248d2c8ebd15e84
+

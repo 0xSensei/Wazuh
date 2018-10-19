@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-08) = og: Security: AUDIT_FAILURE(4625): Microsoft-Win4072a5906eed780c1e10f6ce74b65f48
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-08) = n2016: An account failed to log on.    Subject:   Security ID:  S-1-0-0   Accoune76796bdb58e711f4b8f91b426849dfe24d4a5c6
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-07.json.sum) = 4072a5906eed780c1e10f6ce74b65f48
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-07.json.sum) = e76796bdb58e711f4b8f91b426849dfe24d4a5c6
+

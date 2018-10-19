@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-21) =   Transited Services: -   Package Name (NTLM onl4c46d825222f97750fe9ae046edda6e2
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-21) = d when a logon request fails. It is generated on the computer where access was a8b60ea8b68cbcb455229e0dbe3191a557ec05073
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-20.json.sum) = 4c46d825222f97750fe9ae046edda6e2
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-20.json.sum) = 8b60ea8b68cbcb455229e0dbe3191a557ec05073
+

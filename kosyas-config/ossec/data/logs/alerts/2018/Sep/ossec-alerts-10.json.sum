@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-10) = tication Package: NTLM   Transited Services: -  eba5a8f3c80d5a36f513fdbfd505d811
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-10) =  This event is generated when a logon request fails. It is generated on the compe04178e936325bec5e5d8d33027d553815ea83c5
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-09.json.sum) = eba5a8f3c80d5a36f513fdbfd505d811
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-09.json.sum) = e04178e936325bec5e5d8d33027d553815ea83c5
+

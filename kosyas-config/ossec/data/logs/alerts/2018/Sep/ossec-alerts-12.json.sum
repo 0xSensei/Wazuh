@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-12) = 018 Sep 12 23:59:57 (kaci04) 40.82.155.178->/var050a6b1e30d37c7a5eb1812c656bc24f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-12) = sudo to ROOT executed'
+User: root
+Sep 12 23:59:56 CentOS7 sudo: omsagent : TTY=ub3555cc73f8132e79cfda3d6e33fa44f4fdcfb4e
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-11.json.sum) = 050a6b1e30d37c7a5eb1812c656bc24f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-11.json.sum) = b3555cc73f8132e79cfda3d6e33fa44f4fdcfb4e
+

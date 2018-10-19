@@ -1,0 +1,11 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-24) = heck failed.'
+Sep 24 23:59:58 CentOS7 unix_chkpw6fe0cd2ea6710a247aef7fd341728a14
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-24) = 
+
+account failed to log on.    Subject:   Security ID:  S-1-0-0   Account Name: 5783dd951d604bfc1c0a373a9b1dce522460aea4
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-23.json.sum) = 6fe0cd2ea6710a247aef7fd341728a14
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-23.json.sum) = 5783dd951d604bfc1c0a373a9b1dce522460aea4
+

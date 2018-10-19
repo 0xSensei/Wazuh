@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-05) = iled password for root from 112.85.42.151 port 112881ce626a23637fba803e96b27c2cc
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-05) = 69]: Failed password for root from 112.85.42.151 port 39609 ssh2
+
+** Alert 15387af1f70876ddcac1929a3f936314ceb5c37452490
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-04.json.sum) = 12881ce626a23637fba803e96b27c2cc
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-04.json.sum) = af1f70876ddcac1929a3f936314ceb5c37452490
+

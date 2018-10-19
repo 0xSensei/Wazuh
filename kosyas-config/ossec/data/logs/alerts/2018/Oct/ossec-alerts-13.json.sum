@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-13) =  syslog,sudo,pci_dss_10.2.4,pci_dss_10.2.5,gpg1316580ff91c4b80f63fb3d1f0f2f9ecf1
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-13) = 8->/var/log/secure
+Rule: 5406 (level 5) -> 'Sudo: Command not allowed'
+User: rooc6db9c8ad8634c6617525fa91806e7278159b250
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-12.json.sum) = 16580ff91c4b80f63fb3d1f0f2f9ecf1
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-12.json.sum) = c6db9c8ad8634c6617525fa91806e7278159b250
+

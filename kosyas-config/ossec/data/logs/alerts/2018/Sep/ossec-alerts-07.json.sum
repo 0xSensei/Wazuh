@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-07) = y Length:  0    This event is generated when a lfe51dca2d689dd2b99a4d344678cab13
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-07) = ter where access was attempted.    The Subject fields indicate the account on the3cf98a0cd879cae910461315e255ead958ea8b9
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-06.json.sum) = fe51dca2d689dd2b99a4d344678cab13
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-06.json.sum) = e3cf98a0cd879cae910461315e255ead958ea8b9
+

@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-28) = �지: NTLM   전송된 서비스: -   패키지 9dad3b7a236a4e4e1ea87386504c1628
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-28) = ��벤트는 로그온 요청이 실패할 때 액세스하려고 했던 컴퓨�b0ad6e37f9255f5866aee9c81d06ab0d5d8d5a60
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-27.json.sum) = 9dad3b7a236a4e4e1ea87386504c1628
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-27.json.sum) = b0ad6e37f9255f5866aee9c81d06ab0d5d8d5a60
+

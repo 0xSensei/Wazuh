@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/archives/2018/Sep/ossec-archive-23) = none
+SHA1 (/logs/archives/2018/Sep/ossec-archive-23) = none
+
+Chained checksum:
+MD5  (/logs/archives/2018/Sep/ossec-archive-22.json.sum) = 25f4d693cd09cc276bbfb8ca7597dd47
+SHA1 (/logs/archives/2018/Sep/ossec-archive-22.json.sum) = 98eaec121f577d81401c7e9f7ea1889ce334d8e3
+

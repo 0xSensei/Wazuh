@@ -1,0 +1,11 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-15) = r root from 112.85.42.234 port 24265 ssh2
+
+** Al1df69aacff911b1d019ad86994d87d75
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-15) = ation_failed,pci_dss_10.2.4,pci_dss_10.2.5,gpg13_7.8,
+2018 Oct 15 23:59:56 (kacia37dd3453f6271fcffa71eecf9c7c7c00ce6d099
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Oct/ossec-alerts-14.json.sum) = 1df69aacff911b1d019ad86994d87d75
+SHA1 (/logs/alerts/2018/Oct/ossec-alerts-14.json.sum) = a37dd3453f6271fcffa71eecf9c7c7c00ce6d099
+

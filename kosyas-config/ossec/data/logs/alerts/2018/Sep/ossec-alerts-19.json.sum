@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-19) = 06A    프로세스 정보:   호출자 프로�d4d5c0d472dbcd8abd76224652d08d0f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-19) =    네트워크 정보:   워크스테이션 이름: -   원본 네트워크 주542f8b3eda749100e2874c4afce0f52a1ef65af7
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-18.json.sum) = d4d5c0d472dbcd8abd76224652d08d0f
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-18.json.sum) = 542f8b3eda749100e2874c4afce0f52a1ef65af7
+

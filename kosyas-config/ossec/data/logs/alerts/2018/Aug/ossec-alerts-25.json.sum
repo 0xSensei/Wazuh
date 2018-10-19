@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-25) = :   워크스테이션 이름: -   원본 네트b2856126db4759ffcd19c410b9a98d2e
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-25) =     인증 세부 정보:   로그온 프로세스:  NtLmSsp    인증 패키지49abe44db88dc694f08afe2100e51ee19e1ae7f4
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-24.json.sum) = b2856126db4759ffcd19c410b9a98d2e
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-24.json.sum) = 49abe44db88dc694f08afe2100e51ee19e1ae7f4
+

@@ -1,0 +1,10 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-14) = 3
+
+.    The Logon Type field indicates the kind 617f556c69fcdb094c26412c97f80809
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-14) = 6 Ubuntu1804-02 sshd[16303]: PAM 5 more authentication failures; logname= uid=0 8c2faf5a4a90cec5972045a2d207e9cdfa522f69
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-13.json.sum) = 617f556c69fcdb094c26412c97f80809
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-13.json.sum) = 8c2faf5a4a90cec5972045a2d207e9cdfa522f69
+

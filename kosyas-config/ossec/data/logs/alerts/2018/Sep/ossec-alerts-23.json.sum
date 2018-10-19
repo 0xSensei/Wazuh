@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-23) = 3 23:59:57 CentOS7 sshd[114097]: Failed password633dc1772e80a437d32765d365605f68
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-23) =  23 23:59:54 CentOS7 sshd[114097]: Failed password for root from 61.177.172.57 p386a5707b9977fe4b465bfcf7c748d69b3e49aa8
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-22.json.sum) = 633dc1772e80a437d32765d365605f68
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-22.json.sum) = 386a5707b9977fe4b465bfcf7c748d69b3e49aa8
+

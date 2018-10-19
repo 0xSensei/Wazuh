@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-30) = � 잘못된 암호를 사용했습니다.   상�318458a5445426dfe552ec8e9e47fb97
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-30) =  프로세스 정보:   호출자 프로세스 ID: 0x0   호출자 프로세스 517342cf75d73d47e03a825fce633fe73b167d6f
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Sep/ossec-alerts-29.json.sum) = 318458a5445426dfe552ec8e9e47fb97
+SHA1 (/logs/alerts/2018/Sep/ossec-alerts-29.json.sum) = 517342cf75d73d47e03a825fce633fe73b167d6f
+

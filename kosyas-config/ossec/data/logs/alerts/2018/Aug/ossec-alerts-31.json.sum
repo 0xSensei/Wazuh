@@ -1,0 +1,8 @@
+Current checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-31) = � 실패한 계정:   보안 ID:  S-1-0-0   계�ee3ab24cfd027fcc8a84c13cf5ac4033
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-31) =    오류 정보:   오류 이유:  알 수 없는 사용자 이름 또는 잘�a80f974016303a8ee2a54719c7be6302cdfd6d2a
+
+Chained checksum:
+MD5  (/logs/alerts/2018/Aug/ossec-alerts-30.json.sum) = ee3ab24cfd027fcc8a84c13cf5ac4033
+SHA1 (/logs/alerts/2018/Aug/ossec-alerts-30.json.sum) = a80f974016303a8ee2a54719c7be6302cdfd6d2a
+
