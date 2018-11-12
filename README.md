@@ -8,7 +8,7 @@
 ### Docker-hub notes
 
 These are Docker-Hub URL:
-1. wazhu
+1. wazuh
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh/)
 2. logstash
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh-logstash/)
