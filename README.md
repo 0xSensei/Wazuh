@@ -50,10 +50,21 @@ d29a2f55770e        kng20170406/wazuh-kibana                              "/wait
 
 Finally, you can check your own Kosyas Wazuh containers.
 
-## License and copyright
+## More Information
+
+You need to increase max_map_count on your Docker ho
+
+sysctl -w vm.max_map_count=262144
+
+
+
+To set this value permanently, update the vm.max_map_count setting in /etc/sysctl.conf. To verify after rebooting, run “sysctl vm.max_map_count”.
+
+
+### License and copyright
 
 Wazuh App Copyright (C) 2018 Wazuh Inc. 
 
-## Wazuh official website
+### Wazuh official website
 
 [Wazuh website](http://wazuh.com)
