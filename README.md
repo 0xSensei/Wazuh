@@ -60,6 +60,11 @@ sysctl -w vm.max_map_count=262144
 
 To set this value permanently, update the vm.max_map_count setting in /etc/sysctl.conf. To verify after rebooting, run “sysctl vm.max_map_count”.
 
+### More documentation
+
+* [Wazuh full documentation](http://documentation.wazuh.com)
+* [Wazuh documentation for Docker](https://documentation.wazuh.com/current/docker/index.html)
+* [Docker hub](https://hub.docker.com/u/wazuh)
 
 ### License and copyright
 
