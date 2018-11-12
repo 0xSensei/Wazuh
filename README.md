@@ -7,15 +7,15 @@ Kosyas Wazuh containers are currently on Wazuh.
 ### Docker-hub notes
 
 These are Docker-Hub URL:
-1 *wazhu
+1. wazhu
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh/)
-2 *logstash
+2. logstash
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh-logstash/)
-3 *elasticsearch
+3. elasticsearch
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/elasticsearch/)
-4 *kibana
+4. kibana
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh-kibana/)
-5 *nginx
+5. nginx
 [![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://hub.docker.com/r/kng20170406/wazuh-nginx/)
 
 
