@@ -5,6 +5,7 @@
 containers are currently **tested** on Wazuh
 
 [![Slack](https://img.shields.io/badge/slack-join-blue.svg)](https://goo.gl/forms/M2AoZC4b2R9A9Zy12)
+[![Documentation](https://img.shields.io/badge/web-view-green.svg)](https://wazuh.com)
 * wazuh: It runs the Wazuh manager, Wazuh API and Filebeat (for integration with Elastic Stack)
 
 ### More Infomation
