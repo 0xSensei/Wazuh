@@ -50,7 +50,7 @@ d29a2f55770e        kng20170406/wazuh-kibana                              "/wait
 
 Finally, you can check your own Kosyas Wazuh containers.
 
-## More Information
+### More Information
 
 You need to increase max_map_count on your Docker ho
 
