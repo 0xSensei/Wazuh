@@ -2,8 +2,8 @@
 
 ## Current release 
 
-Kosyas Wazuh containers are currently on Wazuh.
-Kosyas Wazuh systems collect logs from those who contact your system. And then analyze collected logs, make your visualize statistics by Kibana. Kosyas Rule's Agents will alert, if they find danerous detection. These system make safe your system. 
+*Kosyas Wazuh containers are currently on Wazuh.
+*Kosyas Wazuh systems collect logs from those who contact your system. And then analyze collected logs, make your visualize statistics by Kibana. Kosyas Rule's Agents will alert, if they find danerous detection. These system make safe your system. 
 
 ### Docker-hub notes
 
