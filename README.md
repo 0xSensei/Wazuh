@@ -34,7 +34,7 @@ Creating wazuh_nginx_1
 Creating wazuh_logstash_1
 
 ```
-So you can check your docker containter status by using 'docker ps' commander.
+So you can find your docker-containters status by using 'docker ps' commander.
 
 ```
 root@wazuh-manager:docker ps
